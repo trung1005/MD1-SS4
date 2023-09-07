@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h2 {
+    text-align: center;
+    margin: 40px;
+}
+p{
+   
+    text-align: center;
+    color: rgb(196,196,197);
+    margin-top: 20px;
+
+}
+.btn{
+    color: rgb(196,196,197);
+    background-color: rgb(227,83,61);
+    width: 250px;
+    height: 40px;
+    margin-top: 25px;
+    margin-left: calc(50% - 125px);
+}
